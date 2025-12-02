@@ -1,6 +1,6 @@
 {
-    "name": "demo1_flutter_supabase_mobile_app",
-    "short_name": "demo1_flutter_supabase_mobile_app",
+    "name": "flutter_supabase_order_app_mobile",
+    "short_name": "flutter_supabase_order_app_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
