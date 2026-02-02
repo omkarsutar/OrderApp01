@@ -1,5 +1,5 @@
 {
-    "moduleName": "purchase_orders",
+    "moduleName": "purchase_order",
     "entityMeta": {
         "entityName": "Purchase Order",
         "entityNameLower": "purchase order",
