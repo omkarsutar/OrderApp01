@@ -1,5 +1,5 @@
 {
-    "moduleName": "notes",
+    "moduleName": "tbl_notes",
     "entityMeta": {
         "entityName": "Note",
         "entityNameLower": "note",

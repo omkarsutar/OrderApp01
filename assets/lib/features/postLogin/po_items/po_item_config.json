@@ -1,5 +1,5 @@
 {
-    "moduleName": "po_items",
+    "moduleName": "po_item",
     "entityMeta": {
         "entityName": "PO Item",
         "entityNameLower": "po item",

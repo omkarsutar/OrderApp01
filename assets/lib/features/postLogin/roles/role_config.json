@@ -1,5 +1,5 @@
 {
-    "moduleName": "roles",
+    "moduleName": "rbac_roles",
     "entityMeta": {
         "entityName": "Role",
         "entityNameLower": "role",

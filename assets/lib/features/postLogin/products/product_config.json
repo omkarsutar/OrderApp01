@@ -1,5 +1,5 @@
 {
-    "moduleName": "products",
+    "moduleName": "product",
     "entityMeta": {
         "entityName": "Product",
         "entityNameLower": "product",
