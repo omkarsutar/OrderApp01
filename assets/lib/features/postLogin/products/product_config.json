@@ -190,6 +190,14 @@
             "visibleInForm": false
         },
         {
+            "name": "qtyindecimal",
+            "label": "Qty in Decimal",
+            "type": "switchField",
+            "required": true,
+            "visibleInList": true,
+            "visibleInForm": true
+        },
+        {
             "name": "created_at",
             "label": "Created At",
             "type": "text",
